@@ -1,12 +1,11 @@
 # Uncovering patterns of adherence to wearable medical devices used for diabetes management
 
-Please cite this dataset as **Yanjun Cui, Catherine Stanger, and Temiloluwa Prioleau. (2024) Uncovering patterns of adherence to wearable
-medical devices used for diabetes management** 
+Please cite this dataset as **Yanjun Cui, Catherine Stanger, and Temiloluwa Prioleau. (2024) Uncovering patterns of adherence to wearable medical devices used for diabetes management** 
 
-This repository contains references to data records for a Data descriptor submitted to *Nature Human Behaviour*. Any references to the dataset assume dataset files are stored in directory `./` at this level.
+This repository contains references to the code and associated figures/tables for a paper currently under review. Any references to the dataset assume dataset files are stored in directory `./` at this level.
 Below is a description of the different folders and their content.
 
-Please feel free to contact the Augmented Health Lab (ah-lab@dartmouth.edu) if you need assistance navigating these documents.
+For questions and comments, please contact the Augmented Health Lab at Dartmouth College (ah-lab@dartmouth.edu).
 
 ### `Codes/`
 
@@ -14,7 +13,7 @@ All codes are executed in Google Colab.
 
 * `Data Preprocess Batch 1-5.ipynb`:
   * Code for processing CGM records and demographic data, generating summary files for future analysis.
-  * Generate state count numbers in Figure S1.
+  * Generate state count numbers for Figure S1.
 
 * `Fig1_data_overview.ipynb`:
   * Code for generating Figure 1.
